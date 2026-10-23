@@ -1,6 +1,6 @@
 # Montagemagerquark
 
-Eine humorvolle, responsive One-Page-Website rund um den fiktiven „Montagemagerquark“ – gestaltet im industriellen Retro-Look.
+Website rund um den „Montagemagerquark"
 
 ## Funktionen
 
