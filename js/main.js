@@ -200,6 +200,5 @@
         ticking = true;
       }
     }, { passive: true });
-    updateParallax();
   }
 })();
